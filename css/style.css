@@ -361,7 +361,7 @@ ul li {
     height: auto;
     background: linear-gradient(180deg, rgba(245, 253, 245, 0) 0%, #F5FDF5 100%);
     padding: 0 152px 0 152px;
-    padding-bottom:30px;
+    padding-bottom: 30px;
 }
 @media only screen and (max-width: 468px){
     .main-item{
