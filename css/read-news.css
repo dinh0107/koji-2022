@@ -80,6 +80,7 @@ ul li {
 }
 .list-menu{
     display: flex;
+    margin-bottom: 0;
 }
 @media only screen and (max-width: 1028px){
     .list-menu{
