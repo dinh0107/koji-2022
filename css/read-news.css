@@ -690,6 +690,10 @@ ul li {
         padding-right: 0;
     }
 }
+.idea{
+    padding-bottom:20px;
+}
+
 .idea-item{
     padding-top: 47px;
     display: flex;
