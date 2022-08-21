@@ -388,7 +388,12 @@ ul li {
 .main-item{
     height: auto;
     background: linear-gradient(180deg, rgba(245, 253, 245, 0) 0%, #F5FDF5 100%);
+<<<<<<< HEAD
     /* padding: 0 152px 0 152px;     */
+=======
+    padding: 0 152px 0 152px;
+    padding-bottom: 30px;
+>>>>>>> b1200d9540208fe1e7b70766c36ac5b09498d5d5
 }
 @media only screen and (max-width: 468px){
     .main-item{
