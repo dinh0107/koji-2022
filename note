@@ -1,0 +1,91 @@
+<div id="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-item">
+                            <div class="footer-item-title">
+                                <h3>Về chúng tôi</h3>
+                            </div>
+                            <div class="list-footer-item">
+                                <ul>
+                                    <li><a href="">Về Koji</a></li>
+                                    <li><a href="">Dự án</a></li>
+                                    <li><a href="">Tin tức</a></li>
+                                    <li><a href="">Video</a></li>
+                                    <li><a href="">Tuyển dụng</a></li>
+                                    <li><a href=""> Liên hệ</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-item">
+                            <div class="footer-item-title">
+                                <h3>chăm sóc khách hàng</h3>
+                            </div>
+                            <div class="list-footer-item">
+                                <ul>
+                                    <li><a href="">Chính sách bảo mật</a></li>
+                                    <li><a href="">Điều khoản và điều kiện</a></li>
+                                    <li><a href="">Chính sách bảo hành</a></li>
+                                    <li><a href="">Hợp tác kinh doanh</a></li>
+                                    <li><a href="">Câu hỏi thường gặp</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-item">
+                            <div class="footer-item-title">
+                                <h3>hỗ trợ khách hàng</h3>
+                            </div>
+                            <div class="list-footer-item">
+                                <ul>
+                                    <li><a href="">Hotline Hà Nội: 0123 456 789</a></li>
+                                    <li><a href="">Hotline 2: 0123 456 789</a></li>
+                                    <li><a href="">Hỗ trợ kỹ thuật: 0123 456 789</a></li>
+                                    <li><a href="">Phản ánh dịch vụ: 0123 456 789</a></li>
+                                    <li><a href="">Email: kojilandscape@koji.vn</a></li>
+                                </ul>
+                                
+                            </div>
+                            <div class="footer-list-icon">
+                                <div class="footer-facebook">
+                                    <ion-icon name="logo-facebook"></ion-icon>
+                                </div>
+                                <div class="footer-twitter">
+                                    <ion-icon name="logo-twitter"></ion-icon>
+                                </div>
+                                <div class="footer-instagram">
+                                    <ion-icon name="logo-instagram"></ion-icon>
+                                </div>
+                                <div class="footer-youtube">
+                                    <ion-icon name="logo-youtube"></ion-icon>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-item">
+                            <div class="footer-item-title">
+                                <h3>fanpage</h3>
+                            </div>
+                            <div class="list-footer-item">
+                                <div class="footer-fanpage"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>           
+            </div>
+            <div class="end-footer">
+                <div class="end-footer-title">
+                    <p>Công Ty TNHH Cảnh Quan KOJI</p>
+                    <span>Trụ sở chính: Tầng 04, HUD3 Tower, 123 Tô Hiệu, Nguyễn Trãi, Hà Đông, Hà Nội</span>
+                </div>
+                <div class="certification">
+                    <img src="./img/thong-bao-bct 1.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>

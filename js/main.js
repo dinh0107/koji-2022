@@ -1,7 +1,8 @@
 const menuIcon = document.querySelector('.menu-reponsive')
 const menu = document.querySelector ('.menu-item')
  function showMenu(){
-    menu.classList.toggle('active')
+    menu.classList.toggle('active');
+
  }
 menuIcon.addEventListener('click' , showMenu)
 
@@ -15,4 +16,57 @@ function changeIcon(){
 changeIconMenu.addEventListener('click' , changeIcon)
 
 
- 
+$(document).ready(function () {
+    
+
+      $('.slide-list').slick({
+        dots: false,
+        infinite: true,
+        speed: 1500,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        centerMode: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        centerPadding: '60px',
+        variableWidth: true,
+        prevArrow: '<button class="chevron-prev"><i class="fas fa-chevron-left"></i></button>',
+        nextArrow: '<button class="chevron-next"><i class="fas fa-chevron-right"></i></button>',
+        responsive: [
+          {
+            breakpoint: 1024,
+            settings: {
+              slidesToShow: 3,
+              slidesToScroll: 1,
+              infinite: true,
+            }
+          },
+          {
+            breakpoint: 768,
+            settings: {
+              arrows: false,
+              centerMode: true,
+              centerPadding: '40px',
+              slidesToShow: 3
+            }
+          },
+          {
+            breakpoint: 600,
+            settings: {
+              slidesToShow: 3,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              arrows: false,
+              centerMode: true,
+              
+              // centerPadding: '40px',
+              slidesToShow: 1
+            }
+          }
+        ]
+      });
+  });
