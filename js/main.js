@@ -74,7 +74,7 @@ $(document).ready(function () {
         speed: 1500,
         slidesToShow:1,
         slidesToScroll: 1,
-        autoplay: true,
+        // autoplay: true,
         autoplaySpeed: 2000,
         variableWidth: true,
         prevArrow: '<button class="chevron-prev"><i class="fas fa-chevron-left"></i></button>',
@@ -121,3 +121,5 @@ $(document).ready(function () {
       time: 6000
     });
 });
+
+  AOS.init();
