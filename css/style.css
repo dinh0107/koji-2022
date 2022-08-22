@@ -723,7 +723,7 @@ ul li {
 }
 .data-number{
     color: #008b5c;
-    font-size: 29px;
+    font-size: 2.5rem;
     margin-right: 20px;
     display: flex;
     align-items: center;
@@ -904,6 +904,7 @@ ul li {
     }
 }
 .house-describe{
+    margin: 0 auto;
     padding-top: 6px;
     height: 77px;
     width: 273px;
