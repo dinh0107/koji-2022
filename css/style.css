@@ -251,7 +251,7 @@ ul li {
 
 
 .list-menu li {
-    padding: 80px 19px;
+    padding: 80px 32px;
 } 
 
 
@@ -900,7 +900,7 @@ ul li {
 }
 @media only screen and (max-width: 820px){
     .house-title{
-        font-size: 13px;
+        font-size: 18px;
     }
 }
 .house-describe{
@@ -1336,7 +1336,7 @@ background-clip: text;
     position: absolute  ;
     transform: translate(0 ,-50%);
     z-index: 999;
-    background-color: #008B5C;
+    background-color: #008b5c9e;
     border: none;
     outline: none;
     padding: 20px 10px;
