@@ -733,7 +733,7 @@ ul li {
     position: relative;
     background: url(../img/Rectangle\ 422.jpg);
     background-size: cover;
-    /* height: 462px; */
+    height: 462px;
     width: 100%;
 }
 @media only screen and (max-width: 468px){
@@ -852,9 +852,7 @@ ul li {
     color: #008B5C;
 }
 .footer-fanpage{
-    height: 171px;
-    width: 291px;
-    background: #D9D9D9;
+
 }
 
 .end-footer{
