@@ -115,3 +115,9 @@ $(document).ready(function () {
         ]
       });
   });
+  $(document).ready(function(){
+    $('.data-number p').counterUp({
+      delay: 5,
+      time: 6000
+    });
+});
