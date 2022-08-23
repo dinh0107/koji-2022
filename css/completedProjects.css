@@ -534,11 +534,11 @@ ul li {
 
 .content-text{
     display: flex;
-    top: 245px;;
+    bottom: 20%;
     justify-content: center;
     align-items: center;
     position: absolute;
-    height: 69px;
+    height: 50px;
     width: 100%;
     background: rgb(31 30 30 / 58%);
 }

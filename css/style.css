@@ -1805,7 +1805,8 @@ background-clip: text;
         margin-top: 20px;
     }
 }
-.new-feed-content-title p {
+.new-feed-content-title a {
+    color: #000;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -1957,6 +1958,7 @@ background-clip: text;
     mix-blend-mode: multiply;
     bottom: 0;
     right: 0;
+    z-index: -1;
 }
 .new-feed-btn{
     position: absolute;
