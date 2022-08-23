@@ -735,6 +735,7 @@ ul li {
     background: url(../img/Rectangle\ 422.jpg);
     background-size: cover;
     height: 462px;
+    overflow: hidden;
     width: 100%;
 }
 @media only screen and (max-width: 468px){

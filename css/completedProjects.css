@@ -608,6 +608,7 @@ ul li {
     background-size: cover;
     height: 462px;
     width: 100%;
+    overflow: hidden;
 }
 @media only screen and (max-width: 468px){
     #footer{
