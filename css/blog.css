@@ -660,7 +660,6 @@ ul li {
     height: 462px;
     width: 100%;
     overflow: hidden;
-    /* display: none; */
 }
 @media only screen and (max-width: 468px){
     #footer{
@@ -869,3 +868,4 @@ ul li {
    width: 100%;
    height: 100%;
 }
+
